@@ -18032,8 +18032,17 @@
     "repo": "Apoo711/obsidian-3d-graph"
   },
   {
-  "id": "Graph-Font-Customizer",
+  "id": "obsidian",
   "name": "Obsidian Plugin",
+  "author": "garumeca",
+  "description": "This is my first Obsidian community plugin.",
+  "repo": "garumeca/obsidian",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0"
+  },
+  {
+  "id": "Graph-Font-Customizer",
+  "name": "Graph font customizer",
   "author": "garumeca",
   "description": "This is Graph font resizer.",
   "repo": "garumeca/obsidian",
